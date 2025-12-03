@@ -1,0 +1,60 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.swp
+*~
+*.db
+.vs/
+TestResults/
+*.csproj.user
+*.rsa
+*.sln.iml
+
+# NuGet
+packages/
+*.nupkg
+.nuget/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio
+.vs/
+*.vsp
+*.vssscc
+*.vspscc
+
+# Rider
+.idea/
+
+# SQL Server
+*.mdf
+*.ldf
+
+# Environment files
+.env
+appsettings.Development.json
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# EF Core migrations
+Migrations/*.cs
+!Migrations/*.Designer.cs
