@@ -1,0 +1,14 @@
+/Users/osamamasoud/Furth-Year-Projects/FoodDeliveryBackend/FoodDelivery.DAL/bin/Debug/net8.0/FoodDelivery.DAL.deps.json
+/Users/osamamasoud/Furth-Year-Projects/FoodDeliveryBackend/FoodDelivery.DAL/bin/Debug/net8.0/FoodDelivery.DAL.runtimeconfig.json
+/Users/osamamasoud/Furth-Year-Projects/FoodDeliveryBackend/FoodDelivery.DAL/bin/Debug/net8.0/FoodDelivery.DAL.dll
+/Users/osamamasoud/Furth-Year-Projects/FoodDeliveryBackend/FoodDelivery.DAL/bin/Debug/net8.0/FoodDelivery.DAL.pdb
+/Users/osamamasoud/Furth-Year-Projects/FoodDeliveryBackend/FoodDelivery.DAL/obj/Debug/net8.0/FoodDelivery.DAL.csproj.AssemblyReference.cache
+/Users/osamamasoud/Furth-Year-Projects/FoodDeliveryBackend/FoodDelivery.DAL/obj/Debug/net8.0/FoodDelivery.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osamamasoud/Furth-Year-Projects/FoodDeliveryBackend/FoodDelivery.DAL/obj/Debug/net8.0/FoodDelivery.DAL.AssemblyInfoInputs.cache
+/Users/osamamasoud/Furth-Year-Projects/FoodDeliveryBackend/FoodDelivery.DAL/obj/Debug/net8.0/FoodDelivery.DAL.AssemblyInfo.cs
+/Users/osamamasoud/Furth-Year-Projects/FoodDeliveryBackend/FoodDelivery.DAL/obj/Debug/net8.0/FoodDelivery.DAL.csproj.CoreCompileInputs.cache
+/Users/osamamasoud/Furth-Year-Projects/FoodDeliveryBackend/FoodDelivery.DAL/obj/Debug/net8.0/FoodDelivery.DAL.dll
+/Users/osamamasoud/Furth-Year-Projects/FoodDeliveryBackend/FoodDelivery.DAL/obj/Debug/net8.0/refint/FoodDelivery.DAL.dll
+/Users/osamamasoud/Furth-Year-Projects/FoodDeliveryBackend/FoodDelivery.DAL/obj/Debug/net8.0/FoodDelivery.DAL.pdb
+/Users/osamamasoud/Furth-Year-Projects/FoodDeliveryBackend/FoodDelivery.DAL/obj/Debug/net8.0/FoodDelivery.DAL.genruntimeconfig.cache
+/Users/osamamasoud/Furth-Year-Projects/FoodDeliveryBackend/FoodDelivery.DAL/obj/Debug/net8.0/ref/FoodDelivery.DAL.dll

@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "grAu0l+t2rlwyQZxNImGpmqN48QvwHwWhL3QN4/To0w3nWmv63E7SZvbNy4esz5F1Wy7BbZgeiGk4kGwkyBDaA==",
+  "success": true,
+  "projectFilePath": "/Users/osamamasoud/Furth-Year-Projects/FoodDeliveryBackend/FoodDelivery.BLL/FoodDelivery.BLL.csproj",
+  "expectedPackageFiles": [
+    "/Users/osamamasoud/.nuget/NuGet/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/Users/osamamasoud/.nuget/NuGet/packages/bcrypt.net-next/4.0.3/bcrypt.net-next.4.0.3.nupkg.sha512",
+    "/Users/osamamasoud/.nuget/NuGet/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/osamamasoud/.nuget/NuGet/packages/microsoft.entityframeworkcore/8.0.0/microsoft.entityframeworkcore.8.0.0.nupkg.sha512",
+    "/Users/osamamasoud/.nuget/NuGet/packages/microsoft.entityframeworkcore.abstractions/8.0.0/microsoft.entityframeworkcore.abstractions.8.0.0.nupkg.sha512",
+    "/Users/osamamasoud/.nuget/NuGet/packages/microsoft.entityframeworkcore.analyzers/8.0.0/microsoft.entityframeworkcore.analyzers.8.0.0.nupkg.sha512",
+    "/Users/osamamasoud/.nuget/NuGet/packages/microsoft.entityframeworkcore.relational/8.0.0/microsoft.entityframeworkcore.relational.8.0.0.nupkg.sha512",
+    "/Users/osamamasoud/.nuget/NuGet/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "/Users/osamamasoud/.nuget/NuGet/packages/microsoft.extensions.caching.memory/8.0.0/microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "/Users/osamamasoud/.nuget/NuGet/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/Users/osamamasoud/.nuget/NuGet/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/osamamasoud/.nuget/NuGet/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/osamamasoud/.nuget/NuGet/packages/microsoft.extensions.logging/8.0.0/microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "/Users/osamamasoud/.nuget/NuGet/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/osamamasoud/.nuget/NuGet/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/Users/osamamasoud/.nuget/NuGet/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/osamamasoud/.nuget/NuGet/packages/microsoft.identitymodel.abstractions/8.2.1/microsoft.identitymodel.abstractions.8.2.1.nupkg.sha512",
+    "/Users/osamamasoud/.nuget/NuGet/packages/microsoft.identitymodel.jsonwebtokens/8.2.1/microsoft.identitymodel.jsonwebtokens.8.2.1.nupkg.sha512",
+    "/Users/osamamasoud/.nuget/NuGet/packages/microsoft.identitymodel.logging/8.2.1/microsoft.identitymodel.logging.8.2.1.nupkg.sha512",
+    "/Users/osamamasoud/.nuget/NuGet/packages/microsoft.identitymodel.tokens/8.2.1/microsoft.identitymodel.tokens.8.2.1.nupkg.sha512",
+    "/Users/osamamasoud/.nuget/NuGet/packages/npgsql/8.0.0/npgsql.8.0.0.nupkg.sha512",
+    "/Users/osamamasoud/.nuget/NuGet/packages/npgsql.entityframeworkcore.postgresql/8.0.0/npgsql.entityframeworkcore.postgresql.8.0.0.nupkg.sha512",
+    "/Users/osamamasoud/.nuget/NuGet/packages/system.identitymodel.tokens.jwt/8.2.1/system.identitymodel.tokens.jwt.8.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
